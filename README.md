@@ -136,5 +136,5 @@ terminal. It also generates:
 
 **Yukti Sahu**\
 BCA AI/ML (Association with Google)\
-Rungta International Skills University
+Rungta International Skills University\
 **Submitted to** - [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
